@@ -30,7 +30,6 @@ The core proposition of the identity is expressed as follows:
 
 $$\phi = \frac{e^{e^2}}{1000} + \frac{1}{e^{e^e}} + \frac{1000}{\pi^{\sqrt{\pi}}}$$
 
-$$\phi = \frac{\left(e^{\frac{e^2}{2}} + 1000 e^{-\frac{e^e}{2}}\right)^2}{1000} + \frac{1000}{\pi^{\sqrt{\pi}}}$$
 
 ### Component Breakdown
 
