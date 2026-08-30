@@ -28,7 +28,7 @@ The López Rodríguez Identity successfully integrates exponential towers, scali
 
 The core proposition of the identity is expressed as follows:
 
-$$\phi = \frac{e^{e^2}}{10^3} + e^{-e^e} + \frac{10^3}{\pi^{\sqrt{\pi}}}$$
+$$\phi = \frac{e^{e^2}}{1000} + \frac{e^{e^e}} + \frac{1000}{\pi^{\sqrt{\pi}}}$$
 
 ### Component Breakdown
 
